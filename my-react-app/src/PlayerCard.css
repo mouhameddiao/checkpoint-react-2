@@ -1,0 +1,27 @@
+/* src/PlayerCard.css */
+.player-card {
+    background: linear-gradient(145deg, #3b3e4d, #4b4e62);
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    color: #fff;
+    overflow: hidden;
+  }
+  
+  .player-card img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+  }
+  
+  .player-card-title {
+    font-family: 'PlayStation', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #e5e5e5;
+  }
+  
+  .player-card-text {
+    font-family: 'PlayStation', sans-serif;
+    font-size: 1rem;
+    color: #c2c2c2;
+  }
+  
